@@ -5,4 +5,4 @@
 *.txt diff=sjis
 
 # 全てのmdファイル
-*.md diff=sjis
+*.md diff=utf-8
