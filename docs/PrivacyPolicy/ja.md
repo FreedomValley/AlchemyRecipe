@@ -1,20 +1,20 @@
-�{�����́A���T�C�g�Ȃ�т� Google Play�AApp Store �Ō��J���̃A�v���ɂ�����l���̕ی�A����т��̓K�؂Ȏ�舵���ɂ��Ă̕��j�����������̂ł��B
+{¶ÍATCgÈçÑÉ Google PlayAApp Store ÅöJÌAvÉ¨¯éÂlîñÌÛìA¨æÑ»ÌKØÈæèµ¢ÉÂ¢ÄÌûjð¦µ½àÌÅ·B
 
-�� �l���Ɋւ���
-���T�C�g�� Google Play �ɂ����ăT�|�[�g�̂��߃��[���A�h���X�����J���Ă���܂����A�󂯂����[���̃A�h���X�A���e�ɂ��Ă͌l���Ƃ��Ĉ����܂��B�����l���́A�@�߂Ɋ�Â��J�����邱�Ƃ��K�v�ł���ꍇ�������Ă͑�O�҂ɒ񋟂������܂���B���Ǘ��Ɋւ��ē��T�C�g�͌l���̘R�����A����іŎ��A�ʑ���h�~���邽�߁A�K�؂Ȉ��S�Ǘ��[�u���u���A�\���ȃZ�L�����e�B�[�΍���{���A���̉��P�ɓw�߂܂��B
+¡ ÂlîñÉÖµÄ
+TCgâ Google Play É¨¢ÄT|[gÌ½ß[AhXðöJµÄ¨èÜ·ªAó¯½[ÌAhXAàeÉÂ¢ÄÍÂlîñÆµÄµ¢Ü·B±êçÂlîñÍA@ßÉîÃ«J¦·é±ÆªKvÅ éêð¢ÄÍæOÒÉñ¢½µÜ¹ñBîñÇÉÖµÄTCgÍÂlîñÌR¦¢A¨æÑÅ¸AÊ¹ðh~·é½ßAKØÈÀSÇ[uðu¶A\ªÈZLeB[Îôð{µA»ÌüPÉwßÜ·B
 
-�� �L���Ɋւ���
-���T�C�g�ł́A��O�Ҕz�M�̍L���T�[�r�X�iGoogle �A�h�Z���X�j�𗘗p���Ă��܂��B���̂悤�ȍL���z�M���Ǝ҂́A���[�U�[�̋����ɉ��������i��T�[�r�X�̍L����\�����邽�߁A���T�C�g�⑼�T�C�g�ւ̃A�N�Z�X�Ɋւ�����ł��� Cookie ���g�p���邱�Ƃ�����܂��B�Ȃ��ACookie �ɂ́A�����A�Z���A���[���A�h���X�A�d�b�ԍ��Ƃ������l�����ł�����͊܂܂�܂���B�܂��AGoogle �A�h�Z���X�Ɋւ��āA���̃v���Z�X�̏ڍׂ₱�̂悤�ȏ�񂪍L���z�M���Ǝ҂Ɏg�p����Ȃ��悤�ɂ�����@�ɂ��ẮAhttps://support.google.com/ads/answer/2662922?hl=ja �����Q�Ƃ��������B
+¡ LÉÖµÄ
+TCgÅÍAæOÒzMÌLT[rXiGoogle AhZXjðpµÄ¢Ü·B±Ìæ¤ÈLzMÆÒÍA[U[Ì»¡É¶½¤iâT[rXÌLð\¦·é½ßATCgâ¼TCgÖÌANZXÉÖ·éîñÅ é Cookie ðgp·é±Æª èÜ·BÈ¨ACookie ÉÍA¼AZA[AhXAdbÔÆ¢Á½ÂlðÁèÅ«éîñÍÜÜêÜ¹ñBÜ½AGoogle AhZXÉÖµÄA»ÌvZXÌÚ×â±Ìæ¤ÈîñªLzMÆÒÉgp³êÈ¢æ¤É·éû@ÉÂ¢ÄÍAhttps://support.google.com/ads/answer/2662922?hl=ja ð²QÆ­¾³¢B
 
-�� �A�v���Ɋւ���
-Google Play�AApp Store �ɂ����Č��J���Ă���A�v���ɂ����đ�O�Ҕz�M�̍L���T�[�r�X�iAdMob�j�𗘗p���Ă��܂��BGoogle �̒񋟂���L���ݒ�ɂ��A�C���^���X�g�x�[�X�L�����\������Ȃ��悤�ɃI�v�g�A�E�g�����������Ƃ��\�ł��B
+¡ AvÉÖµÄ
+Google PlayAApp Store É¨¢ÄöJµÄ¢éAvÉ¨¢ÄæOÒzMÌLT[rXiAdMobjðpµÄ¢Ü·BGoogle Ìñ·éLÝèÉæèAC^Xgx[XLª\¦³êÈ¢æ¤ÉIvgAEg¢½¾­±ÆªÂ\Å·B
 
-Admob �̃v���C�o�V�|���V�[�ƃI�v�g�A�E�g�ɂ��Ă͉��L URL �����Q�Ƃ��������B
-�v���C�o�V�[�|���V�[�Fhttps://support.google.com/admob/answer/6128543?hl=ja&ref_topic=2745287
-�I�v�g�A�E�g�Fhttps://support.google.com/ads/answer/2662922?hl=ja
+Admob ÌvCoV|V[ÆIvgAEgÉÂ¢ÄÍºL URL ð²QÆ­¾³¢B
+vCoV[|V[Fhttps://support.google.com/admob/answer/6128543?hl=ja&ref_topic=2745287
+IvgAEgFhttps://support.google.com/ads/answer/2662922?hl=ja
 
-�܂��AGoogle Play �ɂ����Č��J���Ă���ꕔ�̃A�v���̓J�����A�X�g���[�W�A�C���^�[�l�b�g�A�N�Z�X�̃p�[�~�b�V�������g�p���Ă��܂��B
+Ü½AGoogle Play É¨¢ÄöJµÄ¢éêÌAvÍJAXg[WAC^[lbgANZXÌp[~bVðgpµÄ¢Ü·B
 
-�� ���₢���킹
-���T�C�g�ɂ��Ă̖₢���킹�́AGooglePlay���̃��r���[�ɃR�����g���Ă��������B�K���ɑΉ��������܂��B
+¡ ¨â¢í¹
+TCgÉÂ¢ÄÌâ¢í¹ÍAGooglePlayàÌr[ÉRgµÄ­¾³¢BK³ÉÎ¢½µÜ·B
 
